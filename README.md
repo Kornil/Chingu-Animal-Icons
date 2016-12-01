@@ -12,11 +12,11 @@
 
 <h4>FAQ</h4>
 <p><b>Why is there no code for favicon.ico?</b><br>
-The favicon.ico file is grabbed by the browser if it is there, you don't need to write code for it.
+The favicon.ico file is grabbed by the browser if it is there, you don't need to write code for it.<br>
 
 
 <b>Why all these favicons?</b><br>
-There are an awful lot of different devices and browsers with the weirdest ideas about favicons, we just satisfy everyone, you can check how your good are your favicons on <a href="http://www.favicomatic.com/favicon-test">this website</a>
+There are an awful lot of different devices and browsers with the weirdest ideas about favicons, we just satisfy everyone, you can check how your good are your favicons on <a href="http://www.favicomatic.com/favicon-test">this website</a>.<br>
 
 
 <b>I did everything you said but I can't see my beautiful new favicon!</b><br>
