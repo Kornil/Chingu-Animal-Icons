@@ -12,7 +12,7 @@
 
 <h4>FAQ</h4>
 <p><b>Why is there no code for favicon.ico?</b><br>
-The favicon.ico file is grabbed by the browser if it is there, you don't need to write code for it.<br>
+The favicon.ico file is grabbed by the browser automatically, you don't need to write code for it.<br>
 
 
 <b>Why all these favicons?</b><br>
