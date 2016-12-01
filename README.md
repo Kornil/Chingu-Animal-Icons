@@ -1,4 +1,4 @@
-<h1 align="center">Red-Panda-Favicon-Implementation-Instruction</h1>
+<h1 align="center">Red Panda Favicon Implementation Instruction</h1>
 <p align="center">How to add this beautiful red panda to your webpage<br><br>
 
 <img src="./favicon/mstile-70x70.png" alt="Red Panda"></p>
