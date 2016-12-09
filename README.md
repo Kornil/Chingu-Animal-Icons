@@ -1,4 +1,5 @@
 <h1 align="center">Red Panda Favicon Implementation Instruction</h1>
+<h2 align="center">Now with Artic Fox, Cheetah, Kangaroo, Racoon and Rhino!</h2>
 <p align="center">How to add this beautiful red panda to your webpage<br><br>
 
 <img src="./favicon-red-panda/mstile-70x70.png" alt="Red Panda">
