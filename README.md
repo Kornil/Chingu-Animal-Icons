@@ -1,12 +1,17 @@
 <h1 align="center">Red Panda Favicon Implementation Instruction</h1>
 <p align="center">How to add this beautiful red panda to your webpage<br><br>
 
-<img src="./favicon/mstile-70x70.png" alt="Red Panda"></p>
+<img src="./favicon-red-panda/mstile-70x70.png" alt="Red Panda">
+<img src="./favicon-artic-fox/mstile-70x70.png" alt="Artic Fox">
+<img src="./favicon-cheetah/mstile-70x70.png" alt="Cheetah">
+<img src="./favicon-kangaroo/mstile-70x70.png" alt="Kangaroo">
+<img src="./favicon-racoon/mstile-70x70.png" alt="Racoon">
+<img src="./favicon-rhino/mstile-70x70.png" alt="Rhino"></p>
 
 <ul>
-<li>Download the <i>favicon folder</i> provided in this repo and add it to your root project folder(where you have index.html)</li>
+<li>Download the <i>favicon folder of your spirit animal</i> provided in this repo and add it to your root project folder changing the name to just <i>favicon</i>(where you have index.html)</li>
 <li>Add the code provided in code.html inside your <i>index.html &lt;head&gt; tag;</i></li>
-<li>Place favicon.ico in the same folder as index.html</li>
+<li>Place favicon.ico(it is inside the favicon folder) in the same folder as index.html</li>
 <li>Commit, push whatever you want, you now have all the favicons for every device and browser that will ever exist!</li>
 </ul>
 
