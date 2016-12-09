@@ -10,7 +10,7 @@
 <img src="./favicon-rhino/mstile-70x70.png" alt="Rhino"></p>
 
 <ul>
-<li>Download the <i>favicon folder of your spirit animal</i> provided in this repo and add it to your root project folder changing the name to just <i>favicon</i>(where you have index.html)</li>
+<li>Download the <i>favicon folder of your spirit animal</i> provided in this repo and add it to your root project folder(where you have index.html) changing the name to just <i>favicon</i></li>
 <li>Add the code provided in code.html inside your <i>index.html &lt;head&gt; tag;</i></li>
 <li>Place favicon.ico(it is inside the favicon folder) in the same folder as index.html</li>
 <li>Commit, push whatever you want, you now have all the favicons for every device and browser that will ever exist!</li>
