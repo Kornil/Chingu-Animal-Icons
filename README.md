@@ -1,5 +1,5 @@
-<h1 align="center">Red Panda Favicon Implementation Instruction</h1>
-<h2 align="center">Now with Artic Fox, Cheetah, Kangaroo, Racoon and Rhino!</h2>
+<h1 align="center">FCC Cohorts Favicon Implementation Instruction</h1>
+<h2 align="center">Now with robots!</h2>
 <p align="center">How to add these beautiful animals to your webpage<br><br>
 
 <img src="./favicon-red-panda/mstile-70x70.png" alt="Red Panda">
@@ -30,6 +30,9 @@ Go to your website adress and add <code>/favicon.ico</code> at the end of it, lo
 If this doesn't work clear your browser cache.</p>
 
 
-
+<h4>History</h4>
+<p>12/12/2016 Added robots for cheetah's new project(link soon)</p>
+<p>09/12/2016 Added Cheetah, Rhino, Racoon, Kangaroo and Artic Fox</p>
+<p>01/12/2016 Created Red Panda</p>
 
 <i>Made for the Red Pandas FreeCodeCamp cohort</i></p>
