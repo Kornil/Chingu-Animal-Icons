@@ -4,17 +4,17 @@
 
 <img src="./favicon-red-panda/apple-touch-icon-60x60.png" alt="Red Panda">
 <img src="./favicon-artic-fox/apple-touch-icon-60x60.png" alt="Artic Fox">
-<img src="./favicon-cheetah/apple-touch-icon-60x60.pngg" alt="Cheetah">
+<img src="./favicon-cheetah/apple-touch-icon-60x60.png" alt="Cheetah">
 <img src="./favicon-kangaroo/apple-touch-icon-60x60.png" alt="Kangaroo">
 <img src="./favicon-racoon/apple-touch-icon-60x60.png" alt="Racoon">
-<img src="./favicon-rhino/apple-touch-icon-60x60.pngg" alt="Rhino"><br>
+<img src="./favicon-rhino/apple-touch-icon-60x60.png" alt="Rhino"><br>
 
 <img src="./cheetah-robot-life/apple-touch-icon-60x60.png" alt="Happy Robot">
 <img src="./cheetah-robot-love/apple-touch-icon-60x60.png" alt="Love Robot">
-<img src="./cheetah-robot-coder/apple-touch-icon-60x60.pngg" alt="WebDev Robot">
+<img src="./cheetah-robot-coder/apple-touch-icon-60x60.png" alt="WebDev Robot">
 <img src="./cheetah-robot-genie/apple-touch-icon-60x60.png" alt="Genie Robot">
 <img src="./cheetah-robot-flash/apple-touch-icon-60x60.png" alt="Flash Robot">
-<img src="./cheetah-robot-angry/apple-touch-icon-60x60.pngg" alt="Angry Robot"></p>
+<img src="./cheetah-robot-angry/apple-touch-icon-60x60.png" alt="Angry Robot"></p>
 
 <ul>
 <li>Download the <i>favicon folder of your spirit animal</i> provided in this repo and add it to your root project folder(where you have index.html) changing the name to just <i>favicon</i></li>
