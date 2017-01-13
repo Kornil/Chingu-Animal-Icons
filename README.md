@@ -1,5 +1,5 @@
 <h1 align="center">FCC Cohorts Favicon Implementation Instruction</h1>
-<h2 align="center">Now with robots!(and pearboar!)</h2>
+<h2 align="center">Alpaca and Meerkat are among us!</h2>
 <p align="center">How to add these beautiful animals to your webpage<br><br>
 
 <img src="./favicon-red-panda/apple-touch-icon-60x60.png" alt="Red Panda">
@@ -8,6 +8,9 @@
 <img src="./favicon-kangaroo/apple-touch-icon-60x60.png" alt="Kangaroo">
 <img src="./favicon-racoon/apple-touch-icon-60x60.png" alt="Racoon">
 <img src="./favicon-rhino/apple-touch-icon-60x60.png" alt="Rhino"><br>
+
+<img src="./favicon-alpaca/apple-touch-icon-60x60.png" alt="Alpaca">
+<img src="./favicon-meerkat/apple-touch-icon-60x60.png" alt="Meerkat"><br>
 
 <img src="./cheetah-robot-life/apple-touch-icon-60x60.png" alt="Happy Robot">
 <img src="./cheetah-robot-love/apple-touch-icon-60x60.png" alt="Love Robot">
@@ -41,6 +44,7 @@ If this doesn't work clear your browser cache.</p>
 
 <h4>History</h4>
 <p>
+13/01/2017 The mistic Alpaca and Meerkat reach the repo from a distant land.<br>
 17/12/2016 The Pearboar summoning is complete.<br>
 12/12//2016 Added robots for cheetah's new project(link soon).<br>
 09/12/2016 Added Cheetah, Rhino, Racoon, Kangaroo and Artic Fox.<br>
