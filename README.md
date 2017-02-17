@@ -1,5 +1,5 @@
 <h1 align="center">FCC Cohorts Favicon Implementation Instruction</h1>
-<h2 align="center">Alpaca and Meerkat are among us!</h2>
+<h2 align="center">new animals from the north(and lion)!</h2>
 <p align="center">How to add these beautiful animals to your webpage<br><br>
 
 <img src="./favicon-red-panda/apple-touch-icon-60x60.png" alt="Red Panda">
@@ -8,6 +8,12 @@
 <img src="./favicon-kangaroo/apple-touch-icon-60x60.png" alt="Kangaroo">
 <img src="./favicon-racoon/apple-touch-icon-60x60.png" alt="Racoon">
 <img src="./favicon-rhino/apple-touch-icon-60x60.png" alt="Rhino"><br>
+
+<img src="./favicon-moose/apple-touch-icon-60x60.png" alt="Moose">
+<img src="./favicon-lion/apple-touch-icon-60x60.png" alt="Lion">
+<img src="./favicon-beluga/apple-touch-icon-60x60.png" alt="Beluga">
+<img src="./favicon-penguin/apple-touch-icon-60x60.png" alt="Penguin">
+<img src="./favicon-turtle/apple-touch-icon-60x60.png" alt="Turtle"><br>
 
 <img src="./favicon-alpaca/apple-touch-icon-60x60.png" alt="Alpaca">
 <img src="./favicon-meerkat/apple-touch-icon-60x60.png" alt="Meerkat"><br>
@@ -44,6 +50,7 @@ If this doesn't work clear your browser cache.</p>
 
 <h4>History</h4>
 <p>
+17/02/2017 Winter is coming and it brings Penguin, Moose, Beluga, Turtle and Lion(yes a lion!).<br>
 13/01/2017 The mistic Alpaca and Meerkat reach the repo from a distant land.<br>
 17/12/2016 The Pearboar summoning is complete.<br>
 12/12//2016 Added robots for cheetah's new project(link soon).<br>
