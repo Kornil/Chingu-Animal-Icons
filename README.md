@@ -60,7 +60,7 @@ If this doesn't work clear your browser cache.</p>
 
 <h4>History</h4>
 <p>
-12/03/2017 As the ice melts, new animals come to populate the repo!<br>
+12/03/2017 As the ice melts, new animals as Koala, Flamingo, Giraffe, Wombat and Iguana come to populate the repo!<br>
 17/02/2017 Winter is coming and it brings Penguin, Moose, Beluga, Turtle and Lion(yes a lion!).<br>
 13/01/2017 The mistic Alpaca and Meerkat reach the repo from a distant land.<br>
 17/12/2016 The Pearboar summoning is complete.<br>
