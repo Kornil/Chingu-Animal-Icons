@@ -2,30 +2,40 @@
 <h2 align="center">new animals from the north(and lion)!</h2>
 <p align="center">How to add these beautiful animals to your webpage<br><br>
 
-<img src="./favicon-red-panda/apple-touch-icon-60x60.png" alt="Red Panda">
-<img src="./favicon-artic-fox/apple-touch-icon-60x60.png" alt="Artic Fox">
-<img src="./favicon-cheetah/apple-touch-icon-60x60.png" alt="Cheetah">
-<img src="./favicon-kangaroo/apple-touch-icon-60x60.png" alt="Kangaroo">
-<img src="./favicon-racoon/apple-touch-icon-60x60.png" alt="Racoon">
-<img src="./favicon-rhino/apple-touch-icon-60x60.png" alt="Rhino"><br>
 
-<img src="./favicon-moose/apple-touch-icon-60x60.png" alt="Moose">
-<img src="./favicon-lion/apple-touch-icon-60x60.png" alt="Lion">
-<img src="./favicon-beluga/apple-touch-icon-60x60.png" alt="Beluga">
-<img src="./favicon-penguin/apple-touch-icon-60x60.png" alt="Penguin">
-<img src="./favicon-turtle/apple-touch-icon-60x60.png" alt="Turtle"><br>
+[Animals](./animals)<br>
+<img src="./animals/red-panda/apple-touch-icon-60x60.png" alt="Red Panda">
+<img src="./animals/artic-fox/apple-touch-icon-60x60.png" alt="Artic Fox">
+<img src="./animals/cheetah/apple-touch-icon-60x60.png" alt="Cheetah">
+<img src="./animals/kangaroo/apple-touch-icon-60x60.png" alt="Kangaroo">
+<img src="./animals/racoon/apple-touch-icon-60x60.png" alt="Racoon">
+<img src="./animals/rhino/apple-touch-icon-60x60.png" alt="Rhino"><br>
 
-<img src="./favicon-alpaca/apple-touch-icon-60x60.png" alt="Alpaca">
-<img src="./favicon-meerkat/apple-touch-icon-60x60.png" alt="Meerkat"><br>
+<img src="./animals/moose/apple-touch-icon-60x60.png" alt="Moose">
+<img src="./animals/lion/apple-touch-icon-60x60.png" alt="Lion">
+<img src="./animals/beluga/apple-touch-icon-60x60.png" alt="Beluga">
+<img src="./animals/penguin/apple-touch-icon-60x60.png" alt="Penguin">
+<img src="./animals/turtle/apple-touch-icon-60x60.png" alt="Turtle"><br>
 
-<img src="./cheetah-robot-life/apple-touch-icon-60x60.png" alt="Happy Robot">
-<img src="./cheetah-robot-love/apple-touch-icon-60x60.png" alt="Love Robot">
-<img src="./cheetah-robot-coder/apple-touch-icon-60x60.png" alt="WebDev Robot">
-<img src="./cheetah-robot-genie/apple-touch-icon-60x60.png" alt="Genie Robot">
-<img src="./cheetah-robot-flash/apple-touch-icon-60x60.png" alt="Flash Robot">
-<img src="./cheetah-robot-angry/apple-touch-icon-60x60.png" alt="Angry Robot"><br>
+<img src="./animals/koala/apple-touch-icon-60x60.png" alt="Koala">
+<img src="./animals/giraffe/apple-touch-icon-60x60.png" alt="Giraffe">
+<img src="./animals/wombat/apple-touch-icon-60x60.png" alt="Wombat">
+<img src="./animals/iguana/apple-touch-icon-60x60.png" alt="Iguana">
+<img src="./animals/flamingo/apple-touch-icon-60x60.png" alt="Flamingo"><br>
 
-<img src="./the-pearboar/apple-touch-icon-60x60.png" alt="Pearboar!"></p>
+<img src="./animals/alpaca/apple-touch-icon-60x60.png" alt="Alpaca">
+<img src="./animals/meerkat/apple-touch-icon-60x60.png" alt="Meerkat"><br>
+
+[Robots](./robots)<br>
+<img src="./robots/chat-robot-life/apple-touch-icon-60x60.png" alt="Happy Robot">
+<img src="./robots/chat-robot-love/apple-touch-icon-60x60.png" alt="Love Robot">
+<img src="./robots/chat-robot-coder/apple-touch-icon-60x60.png" alt="WebDev Robot">
+<img src="./robots/chat-robot-genie/apple-touch-icon-60x60.png" alt="Genie Robot">
+<img src="./robots/chat-robot-flash/apple-touch-icon-60x60.png" alt="Flash Robot">
+<img src="./robots/chat-robot-angry/apple-touch-icon-60x60.png" alt="Angry Robot"><br>
+
+[Others](./misc)<br>
+<img src="./misc/the-pearboar/apple-touch-icon-60x60.png" alt="Pearboar!"></p>
 
 <ul>
 <li>Download the <i>favicon folder of your spirit animal</i> provided in this repo and add it to your root project folder(where you have index.html) changing the name to just <i>favicon</i></li>
