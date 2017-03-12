@@ -3,7 +3,7 @@
 <p align="center">How to add these beautiful animals to your webpage<br><br>
 
 
-[Animals](./animals)<br>
+<a href="./animals">Animals</a><br>
 <img src="./animals/red-panda/apple-touch-icon-60x60.png" alt="Red Panda">
 <img src="./animals/artic-fox/apple-touch-icon-60x60.png" alt="Artic Fox">
 <img src="./animals/cheetah/apple-touch-icon-60x60.png" alt="Cheetah">
@@ -26,7 +26,7 @@
 <img src="./animals/alpaca/apple-touch-icon-60x60.png" alt="Alpaca">
 <img src="./animals/meerkat/apple-touch-icon-60x60.png" alt="Meerkat"><br>
 
-[Robots](./robots)<br>
+<a href="./robots">Robots</a><br>
 <img src="./robots/chat-robot-life/apple-touch-icon-60x60.png" alt="Happy Robot">
 <img src="./robots/chat-robot-love/apple-touch-icon-60x60.png" alt="Love Robot">
 <img src="./robots/chat-robot-coder/apple-touch-icon-60x60.png" alt="WebDev Robot">
@@ -34,7 +34,7 @@
 <img src="./robots/chat-robot-flash/apple-touch-icon-60x60.png" alt="Flash Robot">
 <img src="./robots/chat-robot-angry/apple-touch-icon-60x60.png" alt="Angry Robot"><br>
 
-[Others](./misc)<br>
+<a href="./misc">Misc</a><br>
 <img src="./misc/the-pearboar/apple-touch-icon-60x60.png" alt="Pearboar!"></p>
 
 <ul>
@@ -60,6 +60,7 @@ If this doesn't work clear your browser cache.</p>
 
 <h4>History</h4>
 <p>
+12/03/2017 As the ice melts, new animals come to populate the repo!<br>
 17/02/2017 Winter is coming and it brings Penguin, Moose, Beluga, Turtle and Lion(yes a lion!).<br>
 13/01/2017 The mistic Alpaca and Meerkat reach the repo from a distant land.<br>
 17/12/2016 The Pearboar summoning is complete.<br>
