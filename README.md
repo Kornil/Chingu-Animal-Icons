@@ -1,5 +1,5 @@
 <h1 align="center">FCC Cohorts Favicon Implementation Instruction</h1>
-<h2 align="center">new animals from the north(and lion)!</h2>
+<h2 align="center">A wild Koala appeared!</h2>
 <p align="center">How to add these beautiful animals to your webpage<br><br>
 
 
