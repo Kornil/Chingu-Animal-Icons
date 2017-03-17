@@ -4,35 +4,36 @@
 
 
 <a href="./animals">Animals</a><br>
+<p>
 <img src="./animals/red-panda/apple-touch-icon-60x60.png" title="Red Panda" alt="Red Panda">
 <img src="./animals/artic-fox/apple-touch-icon-60x60.png" title="Artic Fox" alt="Artic Fox">
 <img src="./animals/cheetah/apple-touch-icon-60x60.png" title="Cheetah" alt="Cheetah">
 <img src="./animals/kangaroo/apple-touch-icon-60x60.png" title="Kangaroo" alt="Kangaroo">
 <img src="./animals/racoon/apple-touch-icon-60x60.png" title="Racoon" alt="Racoon">
-<img src="./animals/rhino/apple-touch-icon-60x60.png" title="Rhino" alt="Rhino"><br>
-
+<img src="./animals/rhino/apple-touch-icon-60x60.png" title="Rhino" alt="Rhino"><br></p>
+<p>
 <img src="./animals/moose/apple-touch-icon-60x60.png" title="Moose" alt="Moose">
 <img src="./animals/lion/apple-touch-icon-60x60.png" title="Lion" alt="Lion">
 <img src="./animals/beluga/apple-touch-icon-60x60.png" title="Beluga" alt="Beluga">
 <img src="./animals/penguin/apple-touch-icon-60x60.png" title="Penguin" alt="Penguin">
-<img src="./animals/turtle/apple-touch-icon-60x60.png" title="Turtle" alt="Turtle"><br>
-
+<img src="./animals/turtle/apple-touch-icon-60x60.png" title="Turtle" alt="Turtle"><br></p>
+<p>
 <img src="./animals/koala/apple-touch-icon-60x60.png" title="Koala" alt="Koala">
 <img src="./animals/giraffe/apple-touch-icon-60x60.png" title="Giraffe" alt="Giraffe">
 <img src="./animals/wombat/apple-touch-icon-60x60.png" title="Wombat" alt="Wombat">
 <img src="./animals/iguana/apple-touch-icon-60x60.png" title="Iguana" alt="Iguana">
-<img src="./animals/flamingo/apple-touch-icon-60x60.png" title="Flamingo" alt="Flamingo"><br>
-
+<img src="./animals/flamingo/apple-touch-icon-60x60.png" title="Flamingo" alt="Flamingo"><br></p>
+<p>
 <img src="./animals/alpaca/apple-touch-icon-60x60.png" title="Alpaca" alt="Alpaca">
-<img src="./animals/meerkat/apple-touch-icon-60x60.png" title="Meerkat" alt="Meerkat"><br>
-
+<img src="./animals/meerkat/apple-touch-icon-60x60.png" title="Meerkat" alt="Meerkat"><br></p>
+<p>
 <a href="./robots">Robots</a><br>
 <img src="./robots/chat-robot-life/apple-touch-icon-60x60.png" title="Happy Robot" alt="Happy Robot">
 <img src="./robots/chat-robot-love/apple-touch-icon-60x60.png" title="Love Robot" alt="Love Robot">
 <img src="./robots/chat-robot-coder/apple-touch-icon-60x60.png" title="WebDev Robot" alt="WebDev Robot">
 <img src="./robots/chat-robot-genie/apple-touch-icon-60x60.png" title="Genie Robot" alt="Genie Robot">
 <img src="./robots/chat-robot-flash/apple-touch-icon-60x60.png" title="Flash Robot" alt="Flash Robot">
-<img src="./robots/chat-robot-angry/apple-touch-icon-60x60.png" title="Angry Robot" alt="Angry Robot"><br>
+<img src="./robots/chat-robot-angry/apple-touch-icon-60x60.png" title="Angry Robot" alt="Angry Robot"><br></p>
 
 <a href="./misc">Misc</a><br>
 <img src="./misc/the-pearboar/apple-touch-icon-60x60.png" title="Pearboar!" alt="Pearboar!">
