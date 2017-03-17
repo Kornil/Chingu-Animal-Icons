@@ -1,6 +1,6 @@
 <h1 align="center">FCC Cohorts Favicon Implementation Instruction</h1>
 <h2 align="center">A wild Koala appeared!</h2>
-<p align="center">How to add these beautiful animals to your webpage<br><br>
+<p align="center">How to add these beautiful animals to your webpage</p><br>
 
 
 <a href="./animals">Animals</a><br>
@@ -35,7 +35,7 @@
 <img src="./robots/chat-robot-angry/apple-touch-icon-60x60.png" title="Angry Robot" alt="Angry Robot"><br>
 
 <a href="./misc">Misc</a><br>
-<img src="./misc/the-pearboar/apple-touch-icon-60x60.png" title="Pearboar!" alt="Pearboar!"></p>
+<img src="./misc/the-pearboar/apple-touch-icon-60x60.png" title="Pearboar!" alt="Pearboar!">
 
 <ul>
 <li>Download the <i>favicon folder of your spirit animal</i> provided in this repo and add it to your root project folder(where you have index.html) changing the name to just <i>favicon</i></li>
