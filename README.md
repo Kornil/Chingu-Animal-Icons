@@ -34,9 +34,14 @@
 <img src="./robots/chat-robot-flash/apple-touch-icon-60x60.png" title="Flash Robot" alt="Flash Robot">
 <img src="./robots/chat-robot-angry/apple-touch-icon-60x60.png" title="Angry Robot" alt="Angry Robot"><br></p>
 <p align="center">
+<a href="./misc">Badges</a><br>
+<img src="./badges/speedrunner-badge/apple-touch-icon-60x60.png" title="Speedrunner!" alt="Badge for the speedrunner challenge">
+</p>
+<p align="center">
 <a href="./misc">Misc</a><br>
 <img src="./misc/the-pearboar/apple-touch-icon-60x60.png" title="Pearboar!" alt="Pearboar!">
 </p>
+
 <ul>
 <li>Download the <i>favicon folder of your spirit animal</i> provided in this repo and add it to your root project folder(where you have index.html) changing the name to just <i>favicon</i></li>
 <li>Add the code provided in code.html inside your <i>index.html &lt;head&gt; tag;</i></li>
@@ -60,6 +65,7 @@ If this doesn't work clear your browser cache.</p>
 
 <h4>History</h4>
 <p>
+14/04/2017 Added new folder for badges! The SpeedRunner badge for Chingu is just the beginning!<br>
 12/03/2017 As the ice melts, new animals as Koala, Flamingo, Giraffe, Wombat and Iguana come to populate the repo!<br>
 17/02/2017 Winter is coming and it brings Penguin, Moose, Beluga, Turtle and Lion(yes a lion!).<br>
 13/01/2017 The mistic Alpaca and Meerkat reach the repo from a distant land.<br>
