@@ -35,7 +35,10 @@
 <img src="./robots/chat-robot-angry/apple-touch-icon-60x60.png" title="Angry Robot" alt="Angry Robot"><br></p>
 <p align="center">
 <a href="./misc">Badges</a><br>
-<img src="./badges/speedrunner-badge/apple-touch-icon-60x60.png" title="Speedrunner!" alt="Badge for the speedrunner challenge">
+<img src="./badges/speedrunner-badge/apple-touch-icon-60x60.png" title="Speedrunner Badge" alt="Badge for the speedrunner challenge">
+<img src="./badges/pairprogram-badge/apple-touch-icon-60x60.png" title="PairProgramBadge" alt="Badge for the pairprogramming buddies">
+<img src="./badges/buildtolearn-badge/apple-touch-icon-60x60.png" title="BuildToLearnBadge" alt="Badge for the build-to-learn challenge">
+<img src="./badges/gamedev-badge/apple-touch-icon-60x60.png" title="GameDevBadge" alt="Badge for the gamedev challenge">
 </p>
 <p align="center">
 <a href="./misc">Misc</a><br>
@@ -65,6 +68,7 @@ If this doesn't work clear your browser cache.</p>
 
 <h4>History</h4>
 <p>
+16/04/2017 Added all the pokemon badges! GameDev, PairProgram and Build To Learn.<br>
 14/04/2017 Added new folder for badges! The SpeedRunner badge for Chingu is just the beginning!<br>
 12/03/2017 As the ice melts, new animals as Koala, Flamingo, Giraffe, Wombat and Iguana come to populate the repo!<br>
 17/02/2017 Winter is coming and it brings Penguin, Moose, Beluga, Turtle and Lion(yes a lion!).<br>
